@@ -1,5 +1,4 @@
-# task1-calculator
-# basic calculator using python
+# task1-calculator using python
 
 #taking one no.
 a = int ( input("Enter the first number"))
